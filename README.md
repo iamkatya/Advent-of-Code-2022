@@ -4,12 +4,12 @@ This Python Notebook contains my solutions to the Advent of Code puzzles. All so
 
     https://adventofcode.com/2022/
 
- - Day 1: Calorie Counting &check;
- - Day 2: Rock Paper Scissors &check;
- - Day 3: Rucksack    Reorganization    &check;
- - Day 4: Camp Cleanup     &check;
- - Day 5: Supply Stacks     &check;
- - Day 6: Tuning Trouble     &check;
+ - Day 1: Calorie Counting &check;&check;
+ - Day 2: Rock Paper Scissors &check;&check;
+ - Day 3: Rucksack    Reorganization    &check;&check;
+ - Day 4: Camp Cleanup     &check;&check;
+ - Day 5: Supply Stacks     &check;&check;
+ - Day 6: Tuning Trouble     &check;&check;
  - Day 7: No Space Left  On Device     
  - Day 8: Treetop Tree House     
  - Day 9: Rope Bridge       
