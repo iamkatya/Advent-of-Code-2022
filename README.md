@@ -1,6 +1,6 @@
 ## 🎄🎄🎄Advent of Code 2022🎄🎄🎄
 
-This Notebook contains my solutions to the Advent of Code puzzles. All solutions in one file!
+This Python Notebook contains my solutions to the Advent of Code puzzles. All solutions in one file!
 
     https://adventofcode.com/2022/
 
